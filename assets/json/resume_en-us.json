@@ -3,7 +3,7 @@
     "name": "Sánchez Bachiller",
     "label": "PhD candidate",
     "image": "",
-    "email": "<a href="mailto:javier.bachiller@uni.lu">javier.bachiller@uni.lu</a>",
+    "email": "javier.bachiller@uni.lu",
     "url": "https://jsbachiller.github.io/",
     "location": {
       "address": "Office G02.22 Kirchberg campus",
@@ -21,7 +21,7 @@
       "studyType": "PhD in economics",
       "startDate": "2022-10",
       "endDate": "2026 (expected)",
-      "highlights": ["Advised by <em><a href="https://sites.google.com/site/michelbeineeconomics/home" target="_blank">Prof. Michel Beine</a></em>"]
+      "highlights": ["Advised by Prof. Michel Beine"]
     },
     {
       "institution": "Cemfi",
