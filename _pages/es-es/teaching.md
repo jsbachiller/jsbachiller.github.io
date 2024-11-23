@@ -1,7 +1,7 @@
 ---
 page_id: teaching
 layout: page
-permalink: /teaching/
+permalink: /enseñanza/
 title: ensino
 description: Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.
 nav: true
