@@ -1,7 +1,7 @@
 ---
-page_id: about
+page_id: sobreMi
 layout: about
-title: sobre
+title: Sobre Mi
 permalink: /
 subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
 
