@@ -10,7 +10,9 @@ nav: false
 
 * * *
 **Emigration prospects and educational choices: Evidence from the Lorraine-Luxembourg corridor** 
+
 with [Michel Beine](https://sites.google.com/site/michelbeineeconomics/home) and [Vincent Fromentin](https://sites.google.com/site/vfromentin/home)
+
 <small>[[Latest version](/assets/pdf/EduLorraine.pdf)]  
 Abstract: An extensive literature has documented the incentive effect of emigration prospects in
 terms of human capital accumulation in origin countries. Much less attention has been
@@ -33,8 +35,8 @@ effect of emigration prospects.
 
 **Ostracism in academia** <small>(very provisional title)
 
+<br/><br/>
 
 * * *
 
-<br/><br/>
 
