@@ -27,5 +27,5 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD candidate in economics at the University of Luxembourg.
 
-My research interests include the economics of migration, education and labor economics. I have also done some work on monetary and trade economics.
+My research interests include the economics of migration, education and labor economics. I have also done some work on monetary and trade economics. My work is mainly done using applied econometrics methods.
 
