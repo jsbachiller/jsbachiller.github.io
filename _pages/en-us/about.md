@@ -1,13 +1,13 @@
 ---
-page_id: about
+page_id: About
 layout: about
-title: about
+title: About
 permalink: /
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a style="font-family:monospace" href='mailto:javier.bachiller@uni.lu">javier.bachiller@uni.lu</a></p>
