@@ -20,12 +20,11 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+sidesocial: true # includes social icons at the bottom of the page
 ---
-
-# SITE UNDER CONSTRUCTION
 
 I am a PhD candidate in economics at the University of Luxembourg.
 
 My research interests include the economics of migration, education and labor economics. I have also done some work on monetary and trade economics. My work is mainly done using applied econometrics methods.
+{: style="text-align: justify"}
 
