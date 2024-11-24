@@ -34,14 +34,14 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
-        {%- if page.sidesocial %}
+        {% if page.sidesocial %}
             <div class="sidesocial">
-              {% include social.html %}
+              <div class="contact-icons">{% include social.liquid %}</div>
             </div>
-        {%- endif %}
+        {% endif %}
       </div>
     {% endif %}
-
+    
     <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
