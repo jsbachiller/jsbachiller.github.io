@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /working/
-title: Working papers & works in progress
+title: Work in progress
 description:
 nav: false
 ---
