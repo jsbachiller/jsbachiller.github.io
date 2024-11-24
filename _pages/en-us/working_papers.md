@@ -12,7 +12,7 @@ nav: false
 **Emigration prospects and educational choices: Evidence from the Lorraine-Luxembourg corridor** 
 with [Michel Beine](https://sites.google.com/site/michelbeineeconomics/home) and [Vincent Fromentin](https://sites.google.com/site/vfromentin/home)
 <small>[[Latest version](/assets/pdf/EduLorraine.pdf)]  
-An extensive literature has documented the incentive effect of emigration prospects in
+Abstract: An extensive literature has documented the incentive effect of emigration prospects in
 terms of human capital accumulation in origin countries. Much less attention has been
 paid to the impact on specific educational choices. We provide some evidence from the
 enrolment behavior of students at the University of Lorraine that is located in the
