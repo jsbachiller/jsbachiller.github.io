@@ -1,0 +1,59 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Nombre
+      value: Javier Sánchez Bachiller
+    - name: Correo electrónico
+      value: <a href="mailto:javier.bachiller@uni.lu">javier.bachiller@uni.lu</a>
+    - name: Idiomas
+      value: Español, Inglés, Ruso
+
+- title: Formación
+  type: time_table
+  contents:
+    - title: Doctorado en economía
+      institution: Universidad de Luxemburgo, Luxemburgo
+      year: 2026 (previsto)
+      description:
+        - Supervisado por <em><a href="https://sites.google.com/site/michelbeineeconomics/home" target="_blank">Prof. Michel Beine</a></em>
+    - title: Máster en economía y finanzas
+      institution: Cemfi, Madrid
+      year: 2019
+      description: Beca completa
+    - title: Grado en economía
+      institution: Universidad Autónoma de Madrid, Madrid
+      year: 2016
+      description: Exención parcial de tasas por excelencia académica
+
+- title: Experiencia laboral
+  type: time_table
+  contents:
+    - title: Consultor académico
+      institution: DG Investigación, Banco Central Europeo
+      year: 2020-2021
+    - title: Ayudante de investigación (prácticas)
+      institution: DG Investigación, Banco Central Europeo
+      year: 2019-2020
+    - title: Ayudante de investigación (becario)
+      institution: DG Economía y estadística, Banco de España
+      year: 2016
+      description: Los frutos del proyecto en el que participé: <em><a href="https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/20/Files/dt2026e.pdf" target="_blank">enlace</a></em>
+
+- title: Enseñanza
+  type: time_table
+  contents:
+    - title: Microeconometría aplicada -- Inferencia causal (AD)
+      year: 2022, 2023, 2024
+      description: Curso en el máster de investigación
+
+    - title: Economía internacional(AD)
+      year: 2024
+      description: Curso en el grado
+
+- title: Premios y distinciones
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Premio al mejor estudiante de doctorado -- FDEF, Universidad de Luxemburgo
+

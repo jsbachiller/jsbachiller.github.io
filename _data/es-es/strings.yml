@@ -1,0 +1,143 @@
+archive_category: un archivo con posts de esta categoría
+archive_tag: un archivo con posts con este marcador
+archive_year: un archivo con posts de este año
+blog:
+  navigation_title: blog
+categories:
+  fun: diversos
+  work: trabajo
+citation:
+  bibtex: "o como cita en BibTeX:"
+  introduction: "Cítese como:"
+contact_note: 
+cv:
+  address: Dirección
+  area: Área
+  awarder: Premiado por
+  awards: Premios
+  basics: Información general
+  certificates: Certificados
+  city: Ciudad
+  countryCode: Código de país
+  courses: Cursos
+  date: Datos
+  education: Formación
+  email: Correo electrónico
+  endDate: Fecha de fin
+  fluency: Fluidez
+  highlights: Destacado
+  image: Image
+  institution: Institución
+  interests: Intereses
+  issuer: Emisor
+  keywords: Palabras clave
+  label: Título
+  language: Idioma
+  languages: Idiomas
+  level: Nivel
+  location: Lugar
+  name: Nombre
+  network: Red
+  organization: Organización
+  phone: Teléfono
+  position: Posición
+  postalCode: Código postal
+  profiles: Perfiles
+  projects: Proyectos
+  publications: Publicaciones
+  publisher: Editor
+  reference: Referencia
+  references: Referencias
+  region: Región
+  releaseDate: Fecha de publicación
+  score: Puntuación
+  skills: Habilidades
+  startDate: Fecha de inicio
+  studyType: Tipo de estudo
+  summary: Resumen
+  table_of_contents: Temas
+  title: Título
+  url: Enlace
+  username: Usuario
+  volunteer: Voluntario
+  work: Trabajo
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Desarrollado en <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> con el tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+  Alojado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+latest_posts: Últimos posts
+months:
+  long:
+    january: Enero
+    february: Febrero
+    march: Marzo
+    april: Abril
+    may: Mayo
+    june: Junio
+    july: Julio
+    august: Agosto
+    september: Septiembre
+    october: Octubre
+    november: Noviembre
+    december: Diciembre
+  short:
+    january: Ene
+    february: Feb
+    march: Mar
+    april: Abr
+    may: May
+    june: Jun
+    july: Jul
+    august: Ago
+    september: Sep
+    october: Oct
+    november: Nov
+    december: Dec
+news: Novedades
+newsletter:
+  back: Atrás
+  error: "Algo ha salido mal. Por favor, inténtelo de nuevo."
+  subscribe: suscribirse
+  subscribed: "Se ha inscrito correctamente."
+  subscribe_to_receive: "Susríbase para ser notificado sobre nuevos artículos:"
+  too_many_signups: "Demasiadas suscripciones, por favor inténtelo de nuevo más tarde"
+  wait: "Por favor espere"
+no_news: Ninguna novedad de momento...
+pagination:
+  newer: Recientes
+  older: Antiguas
+  page: página
+post:
+  created_in: Creado em
+  created_by: por
+  last_updated: Última atualización en
+references: Referencias
+related_posts:
+  description: "Artículos relacionados:"
+  title: 
+search:
+  dark_theme:
+    description: Cambia el diseño de la página al tema oscuro
+    title: Cambia a tema oscuro
+  dropdown: Otras opciones
+  email: Enviar un correo electrónico
+  footer:
+    close: para cerrar
+    navigate: para navegar
+    parent: subir un nivel
+    select: para selecionar
+  languages: Idiomas
+  light_theme:
+    description: Cambia el diseño de la página al tema claro
+    title: Cambia a tema claro
+  navigation: Menú de navegación
+  news: Novedades
+  placeholder: Escriba para iniciar la búsqueda
+  posts: Posts
+  projects: Proyectos
+  socials: Redes sociales
+  system_theme:
+    description: Cambia el diseño de la página al tema por defecto del sistema
+    title: Cambia al tema por defecto del sistema
+  theme: Tema
+selected_publications: publicaciones selecionadas
+site_description: Página web académica de Javier Sánchez Bachiller.
