@@ -5,7 +5,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: JSánchezBachillerCV.pdf
+cv_pdf: SánchezBachillerCV.pdf
 description: 
 toc:
   sidebar: left
