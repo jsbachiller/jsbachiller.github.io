@@ -23,7 +23,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in economics at the University of Luxembourg.
+I am a PhD candidate in economics at the University of Luxembourg. I am also a research fellow at the [ACROSS](https://across.liser.lu/) research program.
 
 My research interests include the economics of migration, education and labor economics. I have also done some work on monetary and trade economics. My work is mainly done using applied econometrics methods.
 {: style="text-align: justify"}
