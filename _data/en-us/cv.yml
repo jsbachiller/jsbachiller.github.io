@@ -5,7 +5,7 @@
       value: Javier Sánchez Bachiller
     - name: Email
       value: <a href="mailto:javier.bachiller@uni.lu">javier.bachiller@uni.lu</a>
-    - name: Languages
+    - name: Languages (fluent only)
       value: Spanish, English, Russian
 
 - title: Education
@@ -43,11 +43,11 @@
   type: time_table
   contents:
     - title: Applied Microeconometrics -- Causal Inference (TA)
-      year: 2022, 2023, 2024
+      year: 22-23, 23-24, 24-25
       description: Research master level course
 
     - title: International Economics (TA)
-      year: 2024
+      year: 24-25
       description: Bachelor level course
 
 - title: Honors and Awards
@@ -56,4 +56,8 @@
     - year: 2023
       items:
         - Best Doctoral Student award -- FDEF, University of Luxembourg
+    - year: 2024
+      items:
+        - Pierre Werner Research Grant -- Pierre Werner Foundation, Luxembourg
+        
 
