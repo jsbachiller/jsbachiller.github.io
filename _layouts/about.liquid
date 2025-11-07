@@ -37,15 +37,16 @@ layout: default
         </div>
       {% endif %}
     
-    <div class="clearfix" style="max-width:60%; float:left; margin-right:2rem;">{{ content }}</div>
 
-    <!-- Social icons centered under the text -->
+    <!-- Social icons under name -->
     {% if page.profile.social %}
-      <div class="social" style="max-width:60%; margin: 1rem auto 0 auto; text-align:center;">
+      <div class="social" style="margin-top:0.5rem;">
         <div class="contact-icons">{% include social.liquid %}</div>
         <div class="contact-note">{{ site.data[site.active_lang].strings.contact_note }}</div>
       </div>
     {% endif %}
+    
+    <div class="clearfix" style="max-width:60%; float:left; margin-right:2rem;">{{ content }}</div>
 
     <div style="clear: both;"></div>
 
