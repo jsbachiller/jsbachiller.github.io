@@ -34,16 +34,18 @@ layout: default
           {% if page.profile.more_info %}
             <div class="more-info">{{ page.profile.more_info }}</div>
           {% endif %}
-          {% if page.profile.social %}
-          <div class="social">
-            <div class="contact-icons">{% include social.liquid %}</div>
-            <div class="contact-note">{{ site.data[site.active_lang].strings.contact_note }}</div>
-          </div>
-        {% endif %}
         </div>
       {% endif %}
     
     <div class="clearfix" style="max-width:60%; float:left; margin-right:2rem;">{{ content }}</div>
+
+    <!-- Social icons centered under the text -->
+    {% if page.profile.social %}
+      <div class="social" style="max-width:60%; margin: 1rem auto 0 auto; text-align:center;">
+        <div class="contact-icons">{% include social.liquid %}</div>
+        <div class="contact-note">{{ site.data[site.active_lang].strings.contact_note }}</div>
+      </div>
+    {% endif %}
 
     <div style="clear: both;"></div>
 
