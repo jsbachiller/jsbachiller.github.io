@@ -40,9 +40,13 @@ layout: default
 
     <!-- Social icons under name -->
     {% if page.profile.social %}
-      <div class="social" style="style="max-width:60%; float:left; margin-top:0.5rem;">
-        <div class="contact-icons">{% include social.liquid %}</div>
-        <div class="contact-note">{{ site.data[site.active_lang].strings.contact_note }}</div>
+      <div class="social" style="max-width:60%; float:left; margin-top:0.5rem; text-align:left !important;">
+        <div class="contact-icons" style="justify-content:flex-start !important; text-align:left !important;">
+          {% include social.liquid %}
+        </div>
+        <div class="contact-note" style="text-align:left !important;">
+          {{ site.data[site.active_lang].strings.contact_note }}
+        </div>
       </div>
     {% endif %}
     
