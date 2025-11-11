@@ -32,12 +32,16 @@ the problem, although with some delay.
 
 - **Price setting on the two sides of the Atlantic-Evidence from supermarket scanner data**
 
-&nbsp;&nbsp;&nbsp;&nbsp;with Peter Karadi, Juergen Amann, Pascal Seiler and Jesse Wursten | *Journal of Monetary Economics, 2023*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Peter Karadi, Juergen Amann, Pascal Seiler and Jesse Wursten 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Journal of Monetary Economics, 2023*
 
 
 - Price adjustment in the euro area in the low-inflation period: evidence from consumer and producer micro price data
 
-&nbsp;&nbsp;&nbsp;&nbsp;with Erwan Gautier, Peter Karadi et al. | *ECB Occasional papers, 2023*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Erwan Gautier, Peter Karadi et al. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ECB Occasional papers, 2023*
 
 
 * * *
@@ -47,23 +51,34 @@ the problem, although with some delay.
 
 - **Emigration prospects and educational choices: Evidence from the Lorraine-Luxembourg corridor**
 
-&nbsp;&nbsp;&nbsp;&nbsp;with Michel Beine and Vincent Fromentin
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Michel Beine and Vincent Fromentin
 <small>
 
-&nbsp;&nbsp;&nbsp;&nbsp;*Submitted*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Submitted* [[Latest version](/assets/pdf/EduLorraine.pdf)]  
 
-&nbsp;&nbsp;&nbsp;&nbsp;[[Latest version](/assets/pdf/EduLorraine.pdf)]  
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;Abstract: An extensive literature has documented the incentive effect of emigration prospects in terms of human capital accumulation at origin. Less attention has been paid to the impact on specific educational choices. Using novel data from graduates from the University of Lorraine (France) we find that students who paid attention to the foreign labor market at the time of enrollment tend to choose topics that lead to highly-valued occupations in Luxembourg, a booming economy across the border. These results hold when accounting for heterogeneous substitution patterns and for the potential endogeneity of the interest for the foreign labor market.{: style="text-align: justify"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstract: An extensive literature
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;has documented the incentive effect 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of emigration prospects in terms of 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;human capital accumulation at origin. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Less attention has been paid to the impact 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on specific educational choices. Using novel 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data from graduates from the University of 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorraine (France) we find that students who paid
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;attention to the foreign labor market at the time 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of enrollment tend to choose topics that lead to 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;highly-valued occupations in Luxembourg, a booming 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;economy across the border. These results hold when
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;accounting for heterogeneous substitution patterns 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and for the potential endogeneity of the interest 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for the foreign labor market.
+{: style="text-align: justify"}
 
 
 
 
 - **Local flight: The pushing effect of long-term tourism**
 
-&nbsp;&nbsp;&nbsp;&nbsp;with Camila Pineda León
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Camila Pineda León
 
 
 <br/><br/>
