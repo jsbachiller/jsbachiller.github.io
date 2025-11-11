@@ -31,13 +31,13 @@ the problem, although with some delay.
 ## Publications
 
 - **Price setting on the two sides of the Atlantic-Evidence from supermarket scanner data**
-with Peter Karadi, Juergen Amann, Pascal Seiler and Jesse Wursten
-*Journal of Monetary Economics, 2023*
+
+&nbsp;&nbsp;&nbsp;&nbsp;with Peter Karadi, Juergen Amann, Pascal Seiler and Jesse Wursten | *Journal of Monetary Economics, 2023*
 
 
 - Price adjustment in the euro area in the low-inflation period: evidence from consumer and producer micro price data
-with Erwan Gautier, Peter Karadi et al.
-*ECB Occasional papers, 2023*
+
+&nbsp;&nbsp;&nbsp;&nbsp;with Erwan Gautier, Peter Karadi et al. | *ECB Occasional papers, 2023*
 
 
 * * *
@@ -47,31 +47,23 @@ with Erwan Gautier, Peter Karadi et al.
 
 - **Emigration prospects and educational choices: Evidence from the Lorraine-Luxembourg corridor**
 
-with [Michel Beine](https://sites.google.com/site/michelbeineeconomics/home) and [Vincent Fromentin](https://sites.google.com/site/vfromentin/home)
+&nbsp;&nbsp;&nbsp;&nbsp;with Michel Beine and Vincent Fromentin
 <small>
 
-*Submitted*
+&nbsp;&nbsp;&nbsp;&nbsp;*Submitted*
 
-[[Latest version](/assets/pdf/EduLorraine.pdf)]  
+&nbsp;&nbsp;&nbsp;&nbsp;[[Latest version](/assets/pdf/EduLorraine.pdf)]  
 
 
 
-Abstract: An extensive literature has documented the incentive effect of emigration 
-prospects in terms of human capital accumulation at origin. Less attention has been
-paid to the impact on specific educational choices. Using novel data from graduates
-from the University of Lorraine (France) we find that students who paid attention to
-the foreign labor market at the time of enrollment tend to choose topics that lead 
-to highly-valued occupations in Luxembourg, a booming economy across the border. 
-These results hold when accounting for heterogeneous substitution patterns and for 
-the potential endogeneity of the interest for the foreign labor market.
-{: style="text-align: justify"}
+&nbsp;&nbsp;&nbsp;&nbsp;Abstract: An extensive literature has documented the incentive effect of emigration prospects in terms of human capital accumulation at origin. Less attention has been paid to the impact on specific educational choices. Using novel data from graduates from the University of Lorraine (France) we find that students who paid attention to the foreign labor market at the time of enrollment tend to choose topics that lead to highly-valued occupations in Luxembourg, a booming economy across the border. These results hold when accounting for heterogeneous substitution patterns and for the potential endogeneity of the interest for the foreign labor market.{: style="text-align: justify"}
 
 
 
 
 - **Local flight: The pushing effect of long-term tourism**
 
-with Camila Pineda León
+&nbsp;&nbsp;&nbsp;&nbsp;with Camila Pineda León
 
 
 <br/><br/>
