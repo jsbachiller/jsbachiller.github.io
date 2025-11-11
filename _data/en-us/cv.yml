@@ -13,9 +13,10 @@
   contents:
     - title: PhD in Economics
       institution: University of Luxembourg, Luxembourg
-      year: 2026 (expected)
+      year: 2026*
       description:
         - Advised by <em><a href="https://sites.google.com/site/michelbeineeconomics/home" target="_blank">Prof. Michel Beine</a></em>
+        - Expected date of defense: summer 2026
     - title: M.Sc. in Economics and Finance
       institution: Cemfi, Madrid, Spain
       year: 2019
@@ -42,20 +43,24 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: Applied Microeconometrics -- Causal Inference (TA)
-      year: 22-23, 23-24, 24-25
-      description: Master (PhD track) level course
+    - title: Econometrics (TA)
+      year: 2025-2026
+      description: Master level course
 
     - title: International Economics (TA)
-      year: 24-25
+      year: 2024-2026
       description: Bachelor level course
+
+    - title: Applied Microeconometrics -- Causal Inference (TA)
+      year: 2022-2026
+      description: Master (PhD track) level course
 
 - title: Honors, awards, grants
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Pierre Werner Research Grant -- Pierre Werner Foundation, Luxembourg
     - year: 2023
       items:
         - Best Doctoral Student award -- FDEF, University of Luxembourg
-    - year: 2024
-      items:
-        - Pierre Werner Research Grant -- Pierre Werner Foundation, Luxembourg
