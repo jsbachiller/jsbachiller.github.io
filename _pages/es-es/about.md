@@ -1,13 +1,13 @@
 ---
 page_id: About
 layout: about
-title: Sobre mi
+title: Sobre mí
 permalink: /
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
   align: right
-  image: false
+  image: SB_pic_2.jpg
   image_circular: false # crops the image to make it circular
   more_info:
     <!-- <p>555 your office number</p>

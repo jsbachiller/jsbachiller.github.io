@@ -5,9 +5,10 @@ title: Research
 description:
 nav: false
 ---
+
 <br/><br/>
 
-# Job Market Paper
+## Job Market Paper
 
 
 **The academic cost of international conflict**
@@ -27,14 +28,14 @@ the problem, although with some delay.
 
 * * *
 
-# Publications
+## Publications
 
-**Price setting on the two sides of the Atlantic-Evidence from supermarket scanner data**
+- **Price setting on the two sides of the Atlantic-Evidence from supermarket scanner data**
 with Peter Karadi, Juergen Amann, Pascal Seiler and Jesse Wursten
 *Journal of Monetary Economics, 2023*
 
 
-Price adjustment in the euro area in the low-inflation period: evidence from consumer and producer micro price data
+- Price adjustment in the euro area in the low-inflation period: evidence from consumer and producer micro price data
 with Erwan Gautier, Peter Karadi et al.
 *ECB Occasional papers, 2023*
 
@@ -42,9 +43,9 @@ with Erwan Gautier, Peter Karadi et al.
 * * *
 
 
-# Working papers
+## Working papers
 
-**Emigration prospects and educational choices: Evidence from the Lorraine-Luxembourg corridor**
+- **Emigration prospects and educational choices: Evidence from the Lorraine-Luxembourg corridor**
 
 with [Michel Beine](https://sites.google.com/site/michelbeineeconomics/home) and [Vincent Fromentin](https://sites.google.com/site/vfromentin/home)
 <small>
@@ -68,7 +69,7 @@ the potential endogeneity of the interest for the foreign labor market.
 
 
 
-**Local flight: The pushing effect of long-term tourism**
+- **Local flight: The pushing effect of long-term tourism**
 
 with Camila Pineda León
 

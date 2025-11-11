@@ -13,9 +13,10 @@
   contents:
     - title: Doctorado en economía
       institution: Universidad de Luxemburgo, Luxemburgo
-      year: 2026 (previsto)
+      year: 2026*
       description:
         - Supervisado por <em><a href="https://sites.google.com/site/michelbeineeconomics/home" target="_blank">Prof. Michel Beine</a></em>
+        - Fecha prevista de defensa: Verano 2026
     - title: Máster en economía y finanzas
       institution: Cemfi, Madrid
       year: 2019
@@ -42,13 +43,17 @@
 - title: Enseñanza
   type: time_table
   contents:
-    - title: Microeconometría aplicada -- Inferencia causal (AD)
-      year: 22-23, 23-24, 24-25
-      description: Nivel de máster (*PhD track*)
+    - title: Econometría I (AD)
+      year: 2025-2026
+      description: Nivel de máster
 
     - title: Economía internacional(AD)
-      year: 24-25
+      year: 2024-2026
       description: Nivel de grado
+
+    - title: Microeconometría aplicada -- Inferencia causal (AD)
+      year: 2022-2026
+      description: Nivel de máster (*PhD track*)
 
 - title: Premios, distinciones y becas
   type: time_table
@@ -56,7 +61,7 @@
     - year: 2023
       items:
         - Premio al mejor estudiante de doctorado -- FDEF, Universidad de Luxemburgo
-    - year: 2024
+    - year: 2025
       items:
         - Beca de investigación Pierre Werner -- Fundación Pierre Werner, Luxemburgo
     
