@@ -15,15 +15,15 @@ nav: true
 
 [Draft available upon request]
 
-Abstract: Countries involved in international armed conflicts pay a high price
-in terms of human capital. By leveraging the start of the Russo-Ukrainian war 
-in 2022, I analyse the cost that Russia-based researchers had to pay in academic terms.
-I find that the start of the conflict brought along a 
-penalty to academics based in Russia, who see their citations drop in a magnitude
-similar to the penalties found following paper retractions. I also find that they
-struggle to publish their research in international journals, even if they maintain 
-similar productivity levels as in the pre-war period. Emigration seems to alleviate 
-the problem, although with some delay.
+Countries involved in international armed conflicts pay a high price in terms of 
+human capital. By leveraging the start of the Russo-Ukrainian war in 2022, I analyse 
+causally the cost that Russia-based researchers had to pay in academic terms. I 
+find that the start of the conflict brought along a penalty to academics based in 
+Russia, who see their citations drop in a magnitude similar to the penalties found 
+following paper retractions. This drop is heterogeneous by the origin of citations. 
+I also find that Russian-based researchers struggle to publish their research in 
+international journals, even if they maintain similar productivity levels as in the 
+pre-war period. Emigration seems to alleviate the problem, although with some delay.
 {: style="text-align: justify"}
 
 * * *
