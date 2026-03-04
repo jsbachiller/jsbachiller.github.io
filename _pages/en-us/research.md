@@ -23,7 +23,7 @@ Russia, who see their citations drop in a magnitude similar to the penalties fou
 following paper retractions. This drop is heterogeneous by the origin of citations. 
 I also find that Russian-based researchers struggle to publish their research in 
 international journals, even if they maintain similar productivity levels as in the 
-pre-war period. Emigration seems to alleviate the problem, although with some delay.
+pre-war period.
 {: style="text-align: justify"}
 
 * * *
