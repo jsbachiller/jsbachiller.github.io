@@ -15,17 +15,6 @@ nav: true
 
 [Draft available upon request]
 
-Countries involved in international armed conflicts pay a high price in terms of 
-human capital. By leveraging the start of the Russo-Ukrainian war in 2022, I analyse 
-causally the cost that Russia-based researchers had to pay in academic terms. I 
-find that the start of the conflict brought along a penalty to academics based in 
-Russia, who see their citations drop in a magnitude similar to the penalties found 
-following paper retractions. This drop is heterogeneous by the origin of citations. 
-I also find that Russian-based researchers struggle to publish their research in 
-international journals, even if they maintain similar productivity levels as in the 
-pre-war period.
-{: style="text-align: justify"}
-
 * * *
 
 ## Publications
@@ -55,16 +44,6 @@ pre-war period.
 <small>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Submitted* [[Latest version](/assets/pdf/EduLorraine.pdf)]  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstract: An extensive literature has documented the incentive effect 
-of emigration prospects in terms of human capital accumulation at origin. 
-Less attention has been paid to the impact on specific educational choices. Using novel 
-data from graduates from the University of Lorraine (France) we find that students who paid
-attention to the foreign labor market at the time of enrollment tend to choose topics that lead to 
-highly-valued occupations in Luxembourg, a booming economy across the border. These results hold when
-accounting for heterogeneous substitution patterns and for the potential endogeneity of the interest 
-for the foreign labor market.
-{: style="text-align: justify"}
 
 
 
