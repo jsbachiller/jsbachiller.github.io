@@ -4,7 +4,7 @@
     - name: Nombre
       value: Javier Sánchez Bachiller
     - name: Correo electrónico
-      value: <a href="mailto:javier.bachiller@uni.lu">javier.bachiller@uni.lu</a>
+      value: <a href="mailto:jsbachiller.work@gmail.com">jsbachiller.work@gmail.com</a>
     - name: Idiomas (con fluidez)
       value: Español, Inglés, Ruso
 
@@ -15,7 +15,6 @@
       institution: Universidad de Luxemburgo, Luxemburgo
       year: 2026*
       description:
-        - Supervisado por <em><a href="https://sites.google.com/site/michelbeineeconomics/home" target="_blank">Prof. Michel Beine</a></em>
         - Fecha prevista de defensa en verano de 2026
     - title: Máster en economía y finanzas
       institution: Cemfi, Madrid
