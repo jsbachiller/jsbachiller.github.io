@@ -36,7 +36,7 @@ with Erwan Gautier, Peter Karadi et al.
 
 **Emigration prospects and educational choices: Evidence from the Lorraine-Luxembourg corridor**
 
-with [Michel Beine](https://sites.google.com/site/michelbeineeconomics/home) and [Vincent Fromentin](https://sites.google.com/site/vfromentin/home)
+with Michel Beine and Vincent Fromentin
 <small>
 
 *Submitted*
