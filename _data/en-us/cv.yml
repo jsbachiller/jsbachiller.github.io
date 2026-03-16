@@ -4,7 +4,7 @@
     - name: Full Name
       value: Javier Sánchez Bachiller
     - name: Email
-      value: <a href="mailto:javier.bachiller@uni.lu">javier.bachiller@uni.lu</a>
+      value: <a href="mailto:jsbachiller.work@gmail.com">jsbachiller.work@gmail.com</a>
     - name: Languages (fluent only)
       value: Spanish, English, Russian
 
@@ -15,7 +15,6 @@
       institution: University of Luxembourg, Luxembourg
       year: 2026*
       description:
-        - Advised by <em><a href="https://sites.google.com/site/michelbeineeconomics/home" target="_blank">Prof. Michel Beine</a></em>
         - Expected date of defense in summer 2026
     - title: M.Sc. in Economics and Finance
       institution: Cemfi, Madrid, Spain
