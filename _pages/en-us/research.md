@@ -8,14 +8,6 @@ nav: true
 
 <br/><br/>
 
-## Job Market Paper
-
-
-**The academic cost of international conflict**
-
-[Draft available upon request]
-
-* * *
 
 ## Publications
 
@@ -46,6 +38,9 @@ nav: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Submitted* [[Latest version](/assets/pdf/EduLorraine.pdf)]  
 
 
+**The academic cost of international conflict**
+
+[Draft available upon request]
 
 
 - **Local flight: The pushing effect of long-term tourism**
