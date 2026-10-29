@@ -8,15 +8,20 @@
     - name: Idiomas (con fluidez)
       value: Español, Inglés, Ruso
 
+- title: Experiencia laboral
+  type: time_table
+  contents:
+    - title: Profesor visitante (postdoc)
+      institution: Universidad Carlos III de Madrid, Departamento de Economía
+      year: desde 2026
+
 - title: Formación
   type: time_table
   contents:
     - title: Doctorado en economía
       institution: Universidad de Luxemburgo, Luxemburgo
-      year: 2026*
-      description:
-        - Supervisado por <em><a href="https://sites.google.com/site/michelbeineeconomics/home" target="_blank">Prof. Michel Beine</a></em>
-        - Fecha prevista de defensa en verano de 2026
+      year: 2026
+      description: Supervisado por Prof. Michel Beine
     - title: Máster en economía y finanzas
       institution: Cemfi, Madrid
       year: 2019
@@ -26,7 +31,7 @@
       year: 2016
       description: Exención parcial de tasas por excelencia académica
 
-- title: Experiencia laboral
+- title: Experiencia laboral adicional
   type: time_table
   contents:
     - title: Consultor académico
@@ -43,17 +48,25 @@
 - title: Enseñanza
   type: time_table
   contents:
+    - title: Microeconomía cuantitativa
+      year: 2026-2027
+      description: UC3M, grado
+      
+    - title: Principios de economía
+      year: 2026-2027
+      description: UC3M, grado
+      
     - title: Econometría I (AD)
       year: 2025-2026
-      description: Nivel de máster
+      description: Universidad de Luxemburgo, máster
 
     - title: Economía internacional(AD)
       year: 2024-2026
-      description: Nivel de grado
+      description: Universidad de Luxemburgo, grado
 
     - title: Microeconometría aplicada -- Inferencia causal (AD)
       year: 2022-2026
-      description: Nivel de máster (*PhD track*)
+      description: Universidad de Luxemburgo, máster (*PhD track*)
 
 - title: Premios, distinciones y becas
   type: time_table

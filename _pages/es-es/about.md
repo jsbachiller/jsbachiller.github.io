@@ -23,9 +23,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Soy estudiante de doctorado en economía en la Universidad de Luxemburgo bajo la supervisión de Michel Beine. Además, soy investigador asociado (*research fellow*) en el programa de investigación [ACROSS](https://across.liser.lu/).
+Soy profesor visitante en el Departamento de Economía de la Universidad Carlos III de Madrid.
 
-Trabajo principalmente usando métodos de econometría aplicada. Mis áeras de investigación son la migración, educación y el mercado de trabajo.
+Trabajo principalmente usando métodos de econometría aplicada. Mis principales áeras de investigación son la migración, educación y el mercado de trabajo.
 He participado también en proyectos en los campos de economía monetaria y comercio internacional.
 {: style="text-align: justify"}
 

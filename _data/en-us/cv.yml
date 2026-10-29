@@ -8,15 +8,20 @@
     - name: Languages (fluent only)
       value: Spanish, English, Russian
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Visiting professor (postdoc)
+      institution: Universidad Carlos III de Madrid, Economics Department
+      year: 2026-now
+
 - title: Education
   type: time_table
   contents:
     - title: PhD in Economics
       institution: University of Luxembourg, Luxembourg
-      year: 2026*
-      description:
-        - Advised by <em><a href="https://sites.google.com/site/michelbeineeconomics/home" target="_blank">Prof. Michel Beine</a></em>
-        - Expected date of defense in summer 2026
+      year: 2026
+      description: Advised by Prof. Michel Beine
     - title: M.Sc. in Economics and Finance
       institution: Cemfi, Madrid, Spain
       year: 2019
@@ -26,7 +31,7 @@
       year: 2016
       description: Partial tuition-fee waiver for academic excellence
 
-- title: Experience
+- title: Other academic experience
   type: time_table
   contents:
     - title: Academic consultant
@@ -43,17 +48,25 @@
 - title: Teaching
   type: time_table
   contents:
+    - title: Quantitative Microeconomics
+      year: 2026-2027
+      description: UC3M, bachelor
+
+    - title: Principles of Economics
+      year: 2026-2027
+      description: UC3M, bachelor
+
     - title: Econometrics (TA)
       year: 2025-2026
-      description: Master level course
+      description: UniLu, master
 
     - title: International Economics (TA)
       year: 2024-2026
-      description: Bachelor level course
+      description: UniLu, bachelor
 
-    - title: Applied Microeconometrics -- Causal Inference (TA)
+    - title: Applied Microeconometrics - Causal Inference (TA)
       year: 2022-2026
-      description: Master (PhD track) level course
+      description: UniLu, master(PhD track)
 
 - title: Honors, awards, grants
   type: time_table
