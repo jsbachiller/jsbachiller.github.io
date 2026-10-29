@@ -8,46 +8,43 @@ nav: true
 
 <br/><br/>
 
-## Job Market Paper
 
-
-**The academic cost of international conflict**
-
-[Draft available upon request]
-
-* * *
-
-## Publications
+## Publicaciones
 
 **Price setting on the two sides of the Atlantic-Evidence from supermarket scanner data**
-with Peter Karadi, Juergen Amann, Pascal Seiler and Jesse Wursten
+coautorado con Peter Karadi, Juergen Amann, Pascal Seiler and Jesse Wursten
 *Journal of Monetary Economics, 2023*
 
 
 Price adjustment in the euro area in the low-inflation period: evidence from consumer and producer micro price data
-with Erwan Gautier, Peter Karadi et al.
+coautorado con Erwan Gautier, Peter Karadi et al.
 *ECB Occasional papers, 2023*
 
 
 * * *
 
 
-## Working papers
+## Documentos de trabajo
 
 **Emigration prospects and educational choices: Evidence from the Lorraine-Luxembourg corridor**
 
-with [Michel Beine](https://sites.google.com/site/michelbeineeconomics/home) and [Vincent Fromentin](https://sites.google.com/site/vfromentin/home)
+coautorado con [Michel Beine](https://sites.google.com/site/michelbeineeconomics/home) y [Vincent Fromentin](https://sites.google.com/site/vfromentin/home)
 <small>
 
-*Submitted*
+*En revisión*
 
-[[Latest version](/assets/pdf/EduLorraine.pdf)]  
+[[Versión más reciente](/assets/pdf/EduLorraine.pdf)]  
+
+
+**The academic cost of international conflict**
+
+[Disponible bajo demanda]
 
 
 
 **Local flight: The pushing effect of long-term tourism**
 
-with Camila Pineda León
+coautorado con Camila Pineda León
 
 
 <br/><br/>
